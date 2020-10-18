@@ -1,0 +1,2 @@
+D:\Github\Learning-programming-by-projects\C game project\demo\demo\Debug\demo.exe
+D:\Github\Learning-programming-by-projects\C game project\demo\demo\Debug\demo.pdb
